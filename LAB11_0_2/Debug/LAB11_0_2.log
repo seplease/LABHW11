@@ -1,0 +1,4 @@
+﻿  LAB11_0_2.c
+C:\Users\seple\source\repos\LABHW11\LAB11_0_2\LAB11_0_2.c(8,19): warning C4087: 'square2': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+C:\Users\seple\source\repos\LABHW11\LAB11_0_2\LAB11_0_2.c(12,1): warning C4027: 정식 매개 변수 목록을 사용하지 않고 함수를 선언했습니다.
+  LAB11_0_2.vcxproj -> C:\Users\seple\source\repos\LABHW11\Debug\LAB11_0_2.exe
